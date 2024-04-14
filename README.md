@@ -4,7 +4,7 @@ This project is a simple HTML and CSS project aimed at practicing the use of CSS
 
 ## Demo
 
-You can view a live demo of the CSS Grid practice project [here](https://responsivegridproject.netlify.app). (Replace the "#" with the actual link to your live demo.)
+You can view a live demo of the CSS Grid practice project [here](https://responsivegridproject.netlify.app).
 
 ## Features
 
@@ -18,4 +18,4 @@ To use this project for your own practice or development, you can download the H
 Alternatively, you can clone this repository using the following command:
 
 ```bash
-git clone <https://github.com/sukhmander-singh/Responsive-Grid.git>
+git clone https://github.com/sukhmander-singh/Responsive-Grid.git
